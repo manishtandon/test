@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConAppTest
 {
-    class Program
+    public class StringTest
     {
-        static void Main(string[] args)
+        public static void MyMain()
         {
-            Console.WriteLine("Hello - line 1 added");
+            Console.WriteLine("I am in my Main");
         }
     }
 }
