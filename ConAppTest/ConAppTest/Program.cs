@@ -11,6 +11,7 @@ namespace ConAppTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello - line 1 added");
+            StringTest.MyMain();
         }
     }
 }

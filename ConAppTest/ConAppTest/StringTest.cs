@@ -11,6 +11,7 @@ namespace ConAppTest
         public static void MyMain()
         {
             Console.WriteLine("I am in my Main");
+            Console.WriteLine("This is string test");
         }
     }
 }
