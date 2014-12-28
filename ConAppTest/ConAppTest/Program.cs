@@ -12,6 +12,7 @@ namespace ConAppTest
         {
             Console.WriteLine("Hello - line 1 added");
             StringTest.MyMain();
+            Console.WriteLine("End of Program - Hello there");
         }
     }
 }
