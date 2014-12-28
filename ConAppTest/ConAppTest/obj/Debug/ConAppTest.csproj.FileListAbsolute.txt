@@ -1,1 +1,6 @@
 C:\Git\Branches\test\ConAppTest\ConAppTest\bin\Debug\ConAppTest.exe.config
+C:\Git\Branches\test\ConAppTest\ConAppTest\bin\Debug\ConAppTest.exe
+C:\Git\Branches\test\ConAppTest\ConAppTest\bin\Debug\ConAppTest.pdb
+C:\Git\Branches\test\ConAppTest\ConAppTest\obj\Debug\ConAppTest.csprojResolveAssemblyReference.cache
+C:\Git\Branches\test\ConAppTest\ConAppTest\obj\Debug\ConAppTest.exe
+C:\Git\Branches\test\ConAppTest\ConAppTest\obj\Debug\ConAppTest.pdb
